@@ -1,1 +1,2 @@
 Hallo, dit is versie 1 van mark2.txt
+Dit is nog een nieuwe regel voor mijn nieuwe branch met branch naam branch2
